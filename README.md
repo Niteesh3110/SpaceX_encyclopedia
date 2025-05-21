@@ -11,7 +11,7 @@ A modern, responsive web application built with [Next.js](https://nextjs.org/), 
 
 
  
- [![Watch the demo]()](https://youtu.be/QdSaWn2_FV4)
+ [![Watch the demo](/preview.png)](https://youtu.be/QdSaWn2_FV4)
 
 
 ---
